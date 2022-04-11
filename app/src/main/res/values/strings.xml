@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ad340_wk1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="name">Vladislav Zakharov</string>
+    <string name="date">04/11/2022</string>
+    <string name="picture_description">world picture</string>
+</resources>
